@@ -1,10 +1,38 @@
-- 👋 Hi, I’m @arck-EXE
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+Hi, I am Ankur Gupta
 
-<!---
-arck-EXE/arck-EXE is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+Game | Software | Web Developer
+
+
+I'm a passionate developer specializing in game development, software engineering, and web development. 
+I love building interactive experiences, scalable applications, and dynamic websites. This portfolio showcases my projects, skills, and contributions to the tech world.
+
+🚀 Technical Skills
+
+🎮 Game Development
+
+Unity (C#), Unreal Engine (Blueprints & C++)
+
+Game Mechanics, AI, Multiplayer Systems
+
+2D & 3D Asset Integration
+
+🖥️ Software Development
+
+Backend: C++, Java, Python
+
+Databases: MySQL, PostgreSQL, Firebase
+
+API Development, Microservices, Cloud Deployment
+
+🌍 Web Development
+
+Frontend: HTML, CSS, JavaScript, React, Vue
+
+Backend: Node.js, Django, Flask
+
+DevOps: Docker, Kubernetes, AWS, CI/CD
+
+📢 Looking for Collaboration?
+
+I’m open to working on exciting projects, game development, and software solutions. Feel free to reach out!
